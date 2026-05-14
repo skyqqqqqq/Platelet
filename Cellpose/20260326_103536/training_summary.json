@@ -1,0 +1,17 @@
+{
+  "exp_id": "20260326_103536",
+  "best_val_loss": 0.16228754281997682,
+  "epochs_trained": 46,
+  "timestamp_train_end": "2026-03-29T11:53:25.175298",
+  "note": "",
+  "lambda_bce": 1.0,
+  "lambda_dice": 1.0,
+  "n_train": 451,
+  "n_val": 50,
+  "n_test": 199,
+  "BSIZE": 256,
+  "LR_BACKBONE": 1e-05,
+  "LR_FUSION": 0.001,
+  "BATCH_SIZE": 2,
+  "PATIENCE": 10
+}
